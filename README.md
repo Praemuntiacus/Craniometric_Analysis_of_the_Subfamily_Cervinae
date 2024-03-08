@@ -19,6 +19,14 @@ The following cranial measurements were obtained:
 
 ![image](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1.jpg)
 
+
+<p align="center">
+  <i>Scheme of cranial measurements</i>
+</p>
+
+<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1.jpg" alt="image" width="400">
+
+
 1 •	Condylobasal length of the skull (CBL): Measured from the prosthion point to the posterior edges of the occipital condyles;
 
 1a •	Condylodental length of the skull (L_P2_occiput): Measured from the anterior edge of the P2 alveolus to the posterior edges of the occipital condyles;
