@@ -23,7 +23,7 @@ The following cranial measurements were obtained:
 
 1a •	Condylodental length of the skull (L_P2_occiput): Measured from the anterior edge of the P2 alveolus to the posterior edges of the occipital condyles;
 
-•	Length of basioccipitale (L_basiocc): Measured from the posterior edge of the oc-cipital condyles to the suture between basioccipital and basisphenoid;
+•	Length of basioccipitale (L_basiocc): Measured from the posterior edge of the oc-cipital condyles to the suture between basioccipital and basisphenoid (*not shown on the scheme*);
 
 2 •	Length of the upper tooth row (L_P2_M3): Measured from the anterior edge of the P2 crown to the posterior edge of the M3 crown;
 
@@ -57,7 +57,7 @@ The following cranial measurements were obtained:
 
 18 •	Frontal breadth (W_frontal; in males only): Measurement taken at the frontal constriction before the pedicles;
 
-•	Breadth of the neurocranium (W_braincase): Measurement taken behind the ped-icles in males and as the maximal breadth of the braincase in females;
+•	Breadth of the neurocranium (W_braincase): Measurement taken behind the ped-icles in males and as the maximal breadth of the braincase in females (*not shown on the scheme*);
 
 20 •	Diameter of the orbit (D_orbit; vertical);
 
