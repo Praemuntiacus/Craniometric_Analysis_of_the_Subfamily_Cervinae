@@ -58,7 +58,7 @@ The following cranial measurements were obtained:
 
 •	Length of the nasalia (L_nasal): From nasion to rhinion
 
-	Some skulls, particularly fossils, exhibit varying degrees of incompleteness. The majority of specimens analyzed in this study are from male individuals, with female specimens included only when their measurements provided valuable insights mini-mally influenced by sexual dimorphism. Mean values of cranial measurements for species and subspecies (for instance, in the case of red deer Cervus elaphus, which is represented by subspecies with significantly different body sizes) were utilized for analysis. While certain species are represented by only a single specimen or a small sample size, the behavior of data from these cases within the context of the entire da-taset suggests that this limitation has minimal impact on the study's results. 
+Some skulls, particularly fossils, exhibit varying degrees of incompleteness. The majority of specimens analyzed in this study are from male individuals, with female specimens included only when their measurements provided valuable insights mini-mally influenced by sexual dimorphism. Mean values of cranial measurements for species and subspecies (for instance, in the case of red deer Cervus elaphus, which is represented by subspecies with significantly different body sizes) were utilized for analysis. While certain species are represented by only a single specimen or a small sample size, the behavior of data from these cases within the context of the entire da-taset suggests that this limitation has minimal impact on the study's results. 
 
  ***
  **MENTIONED BIBLIOGRAPHIC SOURCES**
