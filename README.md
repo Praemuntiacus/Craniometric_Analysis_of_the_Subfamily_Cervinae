@@ -17,14 +17,8 @@ The following cranial measurements were obtained:
   <i>Scheme of cranial measurements</i>
 </p>
 
-![image](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1.jpg)
+<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1.jpg" alt="image" width="500" style="display: block; margin: 0 auto;">
 
-
-<p align="center">
-  <i>Scheme of cranial measurements</i>
-</p>
-
-<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1.jpg" alt="image" width="400">
 
 
 1 •	Condylobasal length of the skull (CBL): Measured from the prosthion point to the posterior edges of the occipital condyles;
