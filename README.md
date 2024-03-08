@@ -12,51 +12,58 @@ The craniological material comprises over 300 skulls of both modern and fossil r
 Some cranial measurements of Cervus elaphus are adapted from Heptner and Tzalkin (1947), while cranial measurements for Candiacervus ropalophorus are adapted from Schilling and Roessner (2021). Detailed information regarding cranial specimens, their collection numbers, institutions of curation, and measurements can be found in Table 1S of the supplementary materials.
 
 The following cranial measurements were obtained:
-•	Condylobasal length of the skull (CBL): Measured from the prosthion point to the posterior edges of the occipital condyles;
 
-•	Condylodental length of the skull (L_P2_occiput): Measured from the anterior edge of the P2 alveolus to the posterior edges of the occipital condyles;
+<p align="center">
+  <i>Scheme of cranial measurements</i>
+</p>
+
+![image](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1.jpg)
+
+1 •	Condylobasal length of the skull (CBL): Measured from the prosthion point to the posterior edges of the occipital condyles;
+
+1a •	Condylodental length of the skull (L_P2_occiput): Measured from the anterior edge of the P2 alveolus to the posterior edges of the occipital condyles;
 
 •	Length of basioccipitale (L_basiocc): Measured from the posterior edge of the oc-cipital condyles to the suture between basioccipital and basisphenoid;
 
-•	Length of the upper tooth row (L_P2_M3): Measured from the anterior edge of the P2 crown to the posterior edge of the M3 crown;
+2 •	Length of the upper tooth row (L_P2_M3): Measured from the anterior edge of the P2 crown to the posterior edge of the M3 crown;
 
-•	Length of the upper molar series (L_M1_M3): Taken as the maximal value from the anterior edge of the M1 crown to the posterior edge of the M3 crown;
+3 •	Length of the upper molar series (L_M1_M3): Taken as the maximal value from the anterior edge of the M1 crown to the posterior edge of the M3 crown;
 
-•	Length of the upper premolar series (L_P2_P4): Taken as the maximal value from the anterior edge of the P2 crown to the posterior edge of the P4 crown;
+4 •	Length of the upper premolar series (L_P2_P4): Taken as the maximal value from the anterior edge of the P2 crown to the posterior edge of the P4 crown;
 
-•	Length of the anterior part of the skull before the tooth row (L_P2_prosth): The distance between the anterior edge of the alveolus of P2 and the prosthion point;
+5 •	Length of the anterior part of the skull before the tooth row (L_P2_prosth): The distance between the anterior edge of the alveolus of P2 and the prosthion point;
 
-•	Length of the posterior part of the skull (L_M3_occ_cond): The distance between the anterior edge of the alveolus of M3 and the posterior edge of the occipital con-dyles;
+6 •	Length of the posterior part of the skull (L_M3_occ_cond): The distance between the anterior edge of the alveolus of M3 and the posterior edge of the occipital con-dyles;
 
-•	Length of the braincase (L_bregma_inion): The distance between the bregma point and the inion point;
+7 •	Length of the braincase (L_bregma_inion): The distance between the bregma point and the inion point;
 
-•	Occipital breadth (W_occiput): Measured as the maximum breadth of the occiput;
+8 •	Occipital breadth (W_occiput): Measured as the maximum breadth of the occiput;
 
-•	Occipital height (H_occiput): Measured from the basicranium to the opis-thocranion;
+9 •	Occipital height (H_occiput): Measured from the basicranium to the opis-thocranion;
 
-•	Breadth of occipital condyles (W_occ_cond);
+10 •	Breadth of occipital condyles (W_occ_cond);
 
-•	Length of face (L_orbit_prosth): Measured from the anterior edge of the orbits to the prosthion;
+11 •	Length of face (L_orbit_prosth): Measured from the anterior edge of the orbits to the prosthion;
 
-•	Length of the splanchocranium (L_bregma_prosth): Measured from bregma to the prosthion;
+12 •	Length of the splanchocranium (L_bregma_prosth): Measured from bregma to the prosthion;
 
-•	Skull breadth at M3 (W_at_M3): The measurement taken between the alveolar edges in the middle of the right and left M3;
+13 •	Skull breadth at M3 (W_at_M3): The measurement taken between the alveolar edges in the middle of the right and left M3;
 
-•	Skull breadth at P2 (W_at_P2): The measurement taken between the alveolar edg-es in the middle of the right and left P2;
+14 •	Skull breadth at P2 (W_at_P2): The measurement taken between the alveolar edg-es in the middle of the right and left P2;
 
-•	Breadth of the muzzle (W_rostrum): Measured behind the upper canines or at the suture between the maxillary and premaxillary bones;
+15 •	Breadth of the muzzle (W_rostrum): Measured behind the upper canines or at the suture between the maxillary and premaxillary bones;
 
-•	Breadth above orbits (W_at_orbits): Measured above the orbital centers;
+17 •	Breadth above orbits (W_at_orbits): Measured above the orbital centers;
 
-•	Frontal breadth (W_frontal; in males only): Measurement taken at the frontal constriction before the pedicles;
+18 •	Frontal breadth (W_frontal; in males only): Measurement taken at the frontal constriction before the pedicles;
 
 •	Breadth of the neurocranium (W_braincase): Measurement taken behind the ped-icles in males and as the maximal breadth of the braincase in females;
 
-•	Diameter of the orbit (D_orbit; vertical);
+20 •	Diameter of the orbit (D_orbit; vertical);
 
-•	Length of the frontal suture (L_front_sut): From bregma to nasion;
+21 •	Length of the frontal suture (L_front_sut): From bregma to nasion;
 
-•	Length of the nasalia (L_nasal): From nasion to rhinion
+23 •	Length of the nasalia (L_nasal): From nasion to rhinion
 
 Some skulls, particularly fossils, exhibit varying degrees of incompleteness. The majority of specimens analyzed in this study are from male individuals, with female specimens included only when their measurements provided valuable insights mini-mally influenced by sexual dimorphism. Mean values of cranial measurements for species and subspecies (for instance, in the case of red deer Cervus elaphus, which is represented by subspecies with significantly different body sizes) were utilized for analysis. While certain species are represented by only a single specimen or a small sample size, the behavior of data from these cases within the context of the entire da-taset suggests that this limitation has minimal impact on the study's results. 
 
