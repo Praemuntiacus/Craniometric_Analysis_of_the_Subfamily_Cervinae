@@ -9,7 +9,7 @@ The objective of this study is to conduct a Principal Component Analysis (PCA) o
 **RESEARCH METHODS**
 
 The craniological material comprises over 300 skulls of both modern and fossil representatives of the subfamily Cervinae. The fossil and modern osteological specimens utilized in this study are curated at various institutions, including the Institute of Zoology of the State University of Moldova (IZM), Republic of Moldova; the Institute of Zoology of the University of Wroclaw (IZW), Poland; the Museum of Geology and Paleontology of the University of Florence (MGUF), Italy; the Muséum national d'Histoire naturelle (MNHN), Paris, France; the Museum of Paleontology of the Department of Earth Sciences (MPS), University of Rome “Sapienza”, Italy; the Natural History Museum “Grigore Antipa” (NHMB), Bucharest, Romania; the Natural History Museum of London (NHML), United Kingdom; the Natural History Museum “La Specola” (NHMF), University of Florence, Italy; the Paleontological Museum of the University “Claude Bernard” Lyon 1 (PMUL), France; and the State Museum of Natural History of Stuttgart (SMNH), Germany.
-Some cranial measurements of Cervus elaphus are adapted from Heptner and Tzalkin (1947), while cranial measurements for Candiacervus ropalophorus are adapted from Schilling and Roessner (2021). Detailed information regarding cranial specimens, their collection numbers, institutions of curation, and measurements can be found in Table 1S of the supplementary materials.
+Some cranial measurements of *Cervus elaphus* are adapted from Heptner and Tzalkin (1947), the data on *Cervus elaphus siciliae* are adapted from Gliozzi et al. (1993), the data on *Praedama giulii* are adapted from Breda et al. (2020), while cranial measurements for *Candiacervus ropalophorus* are adapted from Schilling and Roessner (2021). Detailed information regarding cranial specimens, their collection numbers, institutions of curation, and measurements can be found in Table 1S of the supplementary materials.
 
 The following cranial measurements were obtained:
 
@@ -73,6 +73,10 @@ Some skulls, particularly fossils, exhibit varying degrees of incompleteness. Th
  **BIBLIOGRAPHIC SOURCES**
  
 Heptner, V.G.; Zalkin, V.I. Deer of the USSR (Systematics and Zoogeography). Trans. Study Fauna Flora USSR, Moscow Soc. Nat. 1947, 10(25), 1-176 (in Russian).
+
+Breda, M., Lister, A., Kahlke, R.D., 2020. New results on cervids from the Early Pleistocene site of Untermassfeld. In: Kahlke, R.D. (Ed.), The Pleistocene of Untermassfeld near Meiningen (Thüringen, Germany), Part 4. Monographien des Rö-misch-Germanisches Zentralmuseum, 40 (4): 1197-1249, Mainz: Verlag des Römisch-Germanischen Zentralmuseums.
+
+Gliozzi, E.; Malatesta, A.; Scalone, E. Revision of Cervus elaphus siciliae Pohlig, 1893, Late Pleistocene endemic seer of the Siculo-Maltese District. Geol. Rom. 1993, 29, 307-353.
 
 Schilling, A.M.; Roessner, G.E. New skull material of Pleistocene dwarf deer from Crete (Greece). CR Palevol 2021, 20(9), 141-164.
 
