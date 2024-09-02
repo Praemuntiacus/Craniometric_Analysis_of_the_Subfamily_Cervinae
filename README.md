@@ -67,7 +67,17 @@ The following cranial measurements were obtained:
 
 23 •	Length of the nasalia (L_nasal): From nasion to rhinion
 
-Some skulls, particularly fossils, exhibit varying degrees of incompleteness. The majority of specimens analyzed in this study are from male individuals, with female specimens included only when their measurements provided valuable insights mini-mally influenced by sexual dimorphism. Mean values of cranial measurements for species and subspecies (for instance, in the case of red deer Cervus elaphus, which is represented by subspecies with significantly different body sizes) were utilized for analysis. While certain species are represented by only a single specimen or a small sample size, the behavior of data from these cases within the context of the entire da-taset suggests that this limitation has minimal impact on the study's results. 
+Some skulls, particularly fossils, exhibit varying degrees of incompleteness. The majority of specimens analyzed in this study are from male individuals, with female specimens included only when their measurements provided valuable insights mini-mally influenced by sexual dimorphism. Mean values of cranial measurements for species and subspecies (for instance, in the case of red deer Cervus elaphus, which is represented by subspecies with significantly different body sizes) were utilized for analysis. While certain species are represented by only a single specimen or a small sample size, the behavior of data from these cases within the context of the entire da-taset suggests that this limitation has minimal impact on the study's results.
+
+The cranial material comprises over 400 skulls of both modern and fossil representatives of the subfamily Cervinae. The craniometric data for many fossil and modern specimens are incomplete, as illustrated in this diagram (the measurements are groupped by species or servid form as mean):
+
+<p align="center">
+  <i>Missing data by species or cervid form</i>
+</p>
+
+<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1S_missing_data.jpg" alt="image" width="500" style="display: block; margin: 0 auto;">
+
+Linear and multilinear correlations were found to be the most suitable methods for imputing missing data in this study.
 
  ***
  **BIBLIOGRAPHIC SOURCES**
