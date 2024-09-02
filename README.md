@@ -3,7 +3,7 @@ Supplimentary materials to the article "A Craniometric Analysis of the Subfamily
 
 ***
 **THE AIM OF THE STUDY**
-The objective of this study is to conduct a Principal Component Analysis (PCA) on cranial measurements of both fossil and modern deer belonging to the subfamily Cervinae, with the goal of characterizing the cranial morphological diversity within this taxonomic group. The repository includes the dataset (available in both [Excel](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/CERVIDAE%20CRANIAL%20MEASUREMENTS.xlsx) and [CSV](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/CERVIDAE%20CRANIAL%20MEASUREMENTS.csv) formats) and a [Jupyter Notebook](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/CERVIDAE_CRANIOMETRY.ipynb) showcasing all stages of data preprocessing, imputation, analysis, and diagram generation.
+The objective of this study is to conduct a Principal Component Analysis (PCA) on cranial measurements of both fossil and modern deer belonging to the subfamily Cervinae, with the goal of characterizing the cranial morphological diversity within this taxonomic group. The repository includes the dataset (available in both [Excel](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Table%201S.%20CERVIDAE%20CRANIAL%20MEASUREMENTS.xlsx) and [CSV](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Table%201S.%20CERVIDAE%20CRANIAL%20MEASUREMENTS.csv) formats) and a [Jupyter Notebook](https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/CERVIDAE_CRANIOMETRY.ipynb) showcasing all stages of data preprocessing, imputation, analysis, and diagram generation.
 
 ***
 **RESEARCH METHODS**
@@ -17,7 +17,7 @@ The following cranial measurements were obtained:
   <i>Scheme of cranial measurements</i>
 </p>
 
-<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1.jpg" alt="image" width="500" style="display: block; margin: 0 auto;">
+<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/figure-1.jpg" alt="image" width="500" style="display: block; margin: 0 auto;">
 
 
 
