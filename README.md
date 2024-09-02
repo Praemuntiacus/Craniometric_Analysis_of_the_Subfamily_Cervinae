@@ -75,7 +75,7 @@ The cranial material comprises over 400 skulls of both modern and fossil represe
   <i>Missing data by species or cervid form</i>
 </p>
 
-<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1S_missing_data.jpg" alt="image" width="500" style="display: block; margin: 0 auto;">
+<img src="https://github.com/Praemuntiacus/Craniometric_Analysis_of_the_Subfamily_Cervinae/blob/main/Fig_1S_missing_data.jpg" alt="image" width="1000" style="display: block; margin: 0 auto;">
 
 Linear and multilinear correlations were found to be the most suitable methods for imputing missing data in this study.
 
